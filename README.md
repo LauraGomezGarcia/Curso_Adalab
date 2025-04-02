@@ -18,6 +18,6 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 git clone #clonar repositorio
 git add -A
 git commit -m #mensaje de los cambios
-git push #subir cambios a repo
-git pull #bajar cambios a repo pero si has hecho cambios en local primero guardar
+git push #subir cambios a repo pero si has hecho cambios en local primero guardar
+git pull #bajar cambios del repo 
 ```
